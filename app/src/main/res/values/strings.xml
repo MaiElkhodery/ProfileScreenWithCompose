@@ -4,14 +4,9 @@
     <string name="edit_text">Edit and manage your account</string>
     <string name="change_profile">Change Profile Picture</string>
     <string name="first_name">First Name</string>
-    <string name="enter_name">Enter First Name</string>
-    <string name="enter_name2">Enter Last Name</string>
     <string name="last_name">Last Name</string>
     <string name="location">Location</string>
-    <string name="enter_location">Enter Location</string>
     <string name="email">Email</string>
-    <string name="enter_email">Enter Email</string>
     <string name="phone">Phone</string>
-    <string name="enter_phone">Enter Phone</string>
     <string name="save">Save</string>
 </resources>
