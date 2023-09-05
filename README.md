@@ -1,1 +1,1 @@
-<img src="https://github.com/MaiElkhodery/ProfileScreenWithCompose/assets/105084125/6daedfbc-a7f7-4129-ad10-2ae041e439c5" alt="profile_screen" width="170" height="auto">
+<img src="https://github.com/MaiElkhodery/ProfileScreenWithCompose/assets/105084125/2310b79e-ad7f-4add-8cc8-887b894bf713" alt="profile_screen" width="180" height="auto">
